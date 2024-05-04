@@ -1,1 +1,5 @@
-composer require telegram-bot/api
+{
+    "require": {
+        "telegram-bot/api": "^3.0"
+    }
+}
